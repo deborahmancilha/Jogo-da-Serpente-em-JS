@@ -1,0 +1,9 @@
+canvas {
+    border-radius: 15px;
+}
+#placar {
+    text-align: center;
+    font-size: large;
+    color: rgb(0,128,128);
+    text-shadow: 2px 2px 5px rgb(173,255,47);
+}
